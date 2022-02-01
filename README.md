@@ -47,12 +47,12 @@ Photonを使用し、HomeSceneではロビーを用いたマッチメイキン�
 (English)
 1. Aside from this unity project, I scraped information about 500 popular Aozora books and save it as [csv file](https://github.com/aogura0207/inBook01/blob/main/Assets/Resources/CSV/BookURLtest.csv).
 2. Start function in the "HomeScene" makes 500 books accoding to the 1's csv file.
-3. Player chooses his favorite book, and Unity get the books URL.
+3. Player chooses his favorite book, and Unity gets the books URL.
 4. Start function in the "BookScene" gets book's text, using UnityWebrequest, and instantiates pages.
 
 Using Photon, I implemented Lobby Matchmaking in HomeScene and Voice chat in BookScene.
 
-While driving this project, I learned a lot from [this Lecture.](https://www.udemy.com/course/multiplayer-virtual-reality-vr-development-with-unity/)）
+While driving this project, I learned a lot from [this Lecture.](https://www.udemy.com/course/multiplayer-virtual-reality-vr-development-with-unity/)
 
 ## 自分のことについて / About Me
 
